@@ -1,0 +1,7 @@
+📂 tuo_progetto/
+ ┣ 📜 ermal_inference.py
+ ┣ 📂 rvc_models/
+ ┃ ┗ 📂 ermal_meta_tribu_urbana/
+ ┃   ┣ 📜 ermal_meta_tribu_urbana.pth   (I pesi del modello)
+ ┃   ┗ 📜 ermal_meta_tribu_urbana.index (Il feature index estrattivo)
+ ┗ 📜 mia_voce_guida.wav
